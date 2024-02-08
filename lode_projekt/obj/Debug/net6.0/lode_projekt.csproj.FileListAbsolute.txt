@@ -1,0 +1,14 @@
+C:\Users\Chudý Robin\source\repos\lode_projekt\bin\Debug\net6.0\lode_projekt.exe
+C:\Users\Chudý Robin\source\repos\lode_projekt\bin\Debug\net6.0\lode_projekt.deps.json
+C:\Users\Chudý Robin\source\repos\lode_projekt\bin\Debug\net6.0\lode_projekt.runtimeconfig.json
+C:\Users\Chudý Robin\source\repos\lode_projekt\bin\Debug\net6.0\lode_projekt.dll
+C:\Users\Chudý Robin\source\repos\lode_projekt\bin\Debug\net6.0\lode_projekt.pdb
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.AssemblyInfoInputs.cache
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.AssemblyInfo.cs
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.dll
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\refint\lode_projekt.dll
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.pdb
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\lode_projekt.genruntimeconfig.cache
+C:\Users\Chudý Robin\source\repos\lode_projekt\obj\Debug\net6.0\ref\lode_projekt.dll
